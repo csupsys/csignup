@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<jdoconfig xmlns="http://java.sun.com/xml/ns/jdo/jdoconfig"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="http://java.sun.com/xml/ns/jdo/jdoconfig">
+
+	<persistence-manager-factory name="transactions">
+
+		<property name="javax.jdo.PersistenceManagerFactoryClass"
+			value="org.datanucleus.api.jdo.JDOPersistenceManagerFactory" />
+		<property name="javax.jdo.option.ConnectionURL" value="appengine" />
+		<property name="javax.jdo.option.NontransactionalRead" value="true" />
+		<property name="javax.jdo.option.NontransactionalWrite"
+			value="false" />
+
+		<!-- Allows the user to select that when a transaction is committed all 
+			objects enlisted in that transaction will be automatically detached. -->
+		<property name="javax.jdo.option.DetachAllOnCommit" value="true" />
+
+		<!-- When you call EM.merge with a transient object (with PK fields set), 
+			if you enable this feature then it will first check for existence of an object 
+			in the datastore with the same identity and, if present, will merge into 
+			that object (rather than just trying to persist a new object). -->
+		<property name="datanucleus.allowAttachOfTransient" value="true" />
+
+		<!-- Whether to suppress the clearing of values from persistent instances 
+			on transaction completion -->
+		<property name="javax.jdo.option.RetainValues" value="true" />
+
+		<property name="datanucleus.appengine.autoCreateDatastoreTxns"
+			value="true" />
+		<property name="datanucleus.appengine.singletonPMFForName"
+			value="true" />
+		<property name=" datanucleus.appengine.datastoreEnableXGTransactions"
+			value="true" />
+		<property name=" datanucleus.appengine.datastoreReadConsistency"
+			value="STRONG" />
+
+
+	</persistence-manager-factory>
+
+</jdoconfig>

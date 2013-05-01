@@ -1,0 +1,190 @@
+14:29:31,468 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer for API "JDO"
+14:29:31,568 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 3.1.1) : Enhancement of classes
+14:32:15,326 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer for API "JDO"
+14:32:15,428 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 3.1.1) : Enhancement of classes
+14:32:20,588 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer for API "JDO"
+14:32:20,691 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 3.1.1) : Enhancement of classes
+14:43:31,541 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer for API "JDO"
+14:43:31,646 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 3.1.1) : Enhancement of classes
+15:48:56,863 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer for API "JDO"
+15:48:56,969 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 3.1.1) : Enhancement of classes
+15:49:44,726 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer for API "JDO"
+15:49:44,825 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 3.1.1) : Enhancement of classes
+15:49:45,100 (main) INFO  [DataNucleus.Enhancer] - Writing class file "C:\work\csignup\mvn_csignup\csignup\target\classes\com\avihs\csignup\entity\UserDetailsEntity.class" with enhanced definition
+15:49:45,101 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 1 classes. Timings : input=235 ms, enhance=40 ms, total=275 ms. Consult the log for full details
+15:50:22,844 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer for API "JDO"
+15:50:22,949 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 3.1.1) : Enhancement of classes
+15:50:23,192 (main) INFO  [DataNucleus.Enhancer] - Writing class file "C:\work\csignup\mvn_csignup\csignup\target\classes\com\avihs\csignup\entity\UserDetailsEntity.class" with enhanced definition
+15:50:23,193 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 1 classes. Timings : input=198 ms, enhance=45 ms, total=243 ms. Consult the log for full details
+15:51:54,437 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer for API "JDO"
+15:51:54,544 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 3.1.1) : Enhancement of classes
+15:51:54,776 (main) INFO  [DataNucleus.Enhancer] - Writing class file "C:\work\csignup\mvn_csignup\csignup\target\classes\com\avihs\csignup\entity\UserDetailsEntity.class" with enhanced definition
+15:51:54,777 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 1 classes. Timings : input=191 ms, enhance=41 ms, total=232 ms. Consult the log for full details
+15:56:18,239 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer for API "JDO"
+15:56:18,338 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 3.1.1) : Enhancement of classes
+15:56:18,522 (main) INFO  [DataNucleus.Enhancer] - Writing class file "C:\work\csignup\mvn_csignup\csignup\target\classes\com\avihs\csignup\entity\UserDetailsEntity.class" with enhanced definition
+15:56:18,523 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 1 classes. Timings : input=145 ms, enhance=38 ms, total=183 ms. Consult the log for full details
+15:56:26,293 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer for API "JDO"
+15:56:26,390 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 3.1.1) : Enhancement of classes
+15:56:26,634 (main) INFO  [DataNucleus.Enhancer] - Class "com.avihs.csignup.entity.UserDetailsEntity" is already enhanced.
+15:56:26,634 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 1 classes. Timings : input=223 ms, enhance=20 ms, total=243 ms. Consult the log for full details
+15:57:14,706 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer for API "JDO"
+15:57:14,810 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 3.1.1) : Enhancement of classes
+15:57:14,983 (main) INFO  [DataNucleus.Enhancer] - Class "com.avihs.csignup.entity.UserDetailsEntity" is already enhanced.
+15:57:14,984 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 1 classes. Timings : input=152 ms, enhance=21 ms, total=173 ms. Consult the log for full details
+16:10:05,816 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer for API "JDO"
+16:10:05,918 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 3.1.1) : Enhancement of classes
+16:10:06,083 (main) INFO  [DataNucleus.Enhancer] - Class "com.avihs.csignup.entity.UserDetailsEntity" is already enhanced.
+16:10:06,083 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 1 classes. Timings : input=144 ms, enhance=20 ms, total=164 ms. Consult the log for full details
+16:10:58,701 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer for API "JDO"
+16:10:58,802 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 3.1.1) : Enhancement of classes
+16:10:58,968 (main) INFO  [DataNucleus.Enhancer] - Class "com.avihs.csignup.entity.UserDetailsEntity" is already enhanced.
+16:10:58,969 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 1 classes. Timings : input=146 ms, enhance=19 ms, total=165 ms. Consult the log for full details
+16:23:52,093 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer for API "JDO"
+16:23:52,189 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 3.1.1) : Enhancement of classes
+16:23:52,356 (main) INFO  [DataNucleus.Enhancer] - Class "com.avihs.csignup.entity.UserDetailsEntity" is already enhanced.
+16:23:52,356 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 1 classes. Timings : input=147 ms, enhance=19 ms, total=166 ms. Consult the log for full details
+16:24:06,709 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer for API "JDO"
+16:24:06,812 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 3.1.1) : Enhancement of classes
+16:24:06,974 (main) INFO  [DataNucleus.Enhancer] - Class "com.avihs.csignup.entity.UserDetailsEntity" is already enhanced.
+16:24:06,974 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 1 classes. Timings : input=142 ms, enhance=19 ms, total=161 ms. Consult the log for full details
+16:42:21,917 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer for API "JDO"
+16:42:22,033 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 3.1.1) : Enhancement of classes
+16:42:22,234 (main) INFO  [DataNucleus.Enhancer] - Writing class file "C:\work\csignup\mvn_csignup\csignup\target\classes\com\avihs\csignup\entity\UserDetailsEntity.class" with enhanced definition
+16:42:22,235 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 1 classes. Timings : input=160 ms, enhance=41 ms, total=201 ms. Consult the log for full details
+16:43:32,632 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer for API "JDO"
+16:43:32,729 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 3.1.1) : Enhancement of classes
+16:43:32,973 (main) INFO  [DataNucleus.Enhancer] - Class "com.avihs.csignup.entity.UserDetailsEntity" is already enhanced.
+16:43:32,973 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 1 classes. Timings : input=222 ms, enhance=21 ms, total=243 ms. Consult the log for full details
+16:46:50,089 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer for API "JDO"
+16:46:50,196 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 3.1.1) : Enhancement of classes
+16:46:50,377 (main) INFO  [DataNucleus.Enhancer] - Class "com.avihs.csignup.entity.UserDetailsEntity" is already enhanced.
+16:46:50,377 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 1 classes. Timings : input=161 ms, enhance=19 ms, total=180 ms. Consult the log for full details
+16:48:37,659 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer for API "JDO"
+16:48:37,759 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 3.1.1) : Enhancement of classes
+16:48:37,938 (main) INFO  [DataNucleus.Enhancer] - Class "com.avihs.csignup.entity.UserDetailsEntity" is already enhanced.
+16:48:37,938 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 1 classes. Timings : input=158 ms, enhance=20 ms, total=178 ms. Consult the log for full details
+16:48:50,251 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer for API "JDO"
+16:48:50,357 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 3.1.1) : Enhancement of classes
+16:48:50,537 (main) INFO  [DataNucleus.Enhancer] - Class "com.avihs.csignup.entity.UserDetailsEntity" is already enhanced.
+16:48:50,537 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 1 classes. Timings : input=159 ms, enhance=20 ms, total=179 ms. Consult the log for full details
+16:49:42,823 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer for API "JDO"
+16:49:42,925 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 3.1.1) : Enhancement of classes
+16:49:43,102 (main) INFO  [DataNucleus.Enhancer] - Class "com.avihs.csignup.entity.UserDetailsEntity" is already enhanced.
+16:49:43,102 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 1 classes. Timings : input=156 ms, enhance=20 ms, total=176 ms. Consult the log for full details
+16:50:55,305 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer for API "JDO"
+16:50:55,405 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 3.1.1) : Enhancement of classes
+16:50:55,580 (main) INFO  [DataNucleus.Enhancer] - Class "com.avihs.csignup.entity.UserDetailsEntity" is already enhanced.
+16:50:55,580 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 1 classes. Timings : input=155 ms, enhance=19 ms, total=174 ms. Consult the log for full details
+16:51:04,170 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer for API "JDO"
+16:51:04,269 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 3.1.1) : Enhancement of classes
+16:51:04,442 (main) INFO  [DataNucleus.Enhancer] - Class "com.avihs.csignup.entity.UserDetailsEntity" is already enhanced.
+16:51:04,442 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 1 classes. Timings : input=153 ms, enhance=19 ms, total=172 ms. Consult the log for full details
+16:52:00,675 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer for API "JDO"
+16:52:00,772 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 3.1.1) : Enhancement of classes
+16:52:00,948 (main) INFO  [DataNucleus.Enhancer] - Class "com.avihs.csignup.entity.UserDetailsEntity" is already enhanced.
+16:52:00,948 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 1 classes. Timings : input=156 ms, enhance=19 ms, total=175 ms. Consult the log for full details
+16:52:04,521 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer for API "JDO"
+16:52:04,624 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 3.1.1) : Enhancement of classes
+16:52:04,800 (main) INFO  [DataNucleus.Enhancer] - Class "com.avihs.csignup.entity.UserDetailsEntity" is already enhanced.
+16:52:04,801 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 1 classes. Timings : input=156 ms, enhance=19 ms, total=175 ms. Consult the log for full details
+16:52:20,699 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer for API "JDO"
+16:52:20,799 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 3.1.1) : Enhancement of classes
+16:52:21,042 (main) INFO  [DataNucleus.Enhancer] - Writing class file "C:\work\csignup\mvn_csignup\csignup\target\classes\com\avihs\csignup\entity\UserDetailsEntity.class" with enhanced definition
+16:52:21,043 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 1 classes. Timings : input=207 ms, enhance=37 ms, total=244 ms. Consult the log for full details
+16:52:29,085 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer for API "JDO"
+16:52:29,187 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 3.1.1) : Enhancement of classes
+16:52:29,499 (main) INFO  [DataNucleus.Enhancer] - Class "com.avihs.csignup.entity.UserDetailsEntity" is already enhanced.
+16:52:29,499 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 1 classes. Timings : input=291 ms, enhance=20 ms, total=311 ms. Consult the log for full details
+16:53:18,128 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer for API "JDO"
+16:53:18,232 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 3.1.1) : Enhancement of classes
+16:53:18,471 (main) INFO  [DataNucleus.Enhancer] - Writing class file "C:\work\csignup\mvn_csignup\csignup\target\classes\com\avihs\csignup\entity\UserDetailsEntity.class" with enhanced definition
+16:53:18,471 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 1 classes. Timings : input=201 ms, enhance=37 ms, total=238 ms. Consult the log for full details
+16:53:24,150 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer for API "JDO"
+16:53:24,251 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 3.1.1) : Enhancement of classes
+16:53:24,517 (main) INFO  [DataNucleus.Enhancer] - Class "com.avihs.csignup.entity.UserDetailsEntity" is already enhanced.
+16:53:24,517 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 1 classes. Timings : input=245 ms, enhance=20 ms, total=265 ms. Consult the log for full details
+16:54:18,942 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer for API "JDO"
+16:54:19,045 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 3.1.1) : Enhancement of classes
+16:54:19,292 (main) INFO  [DataNucleus.Enhancer] - Writing class file "C:\work\csignup\mvn_csignup\csignup\target\classes\com\avihs\csignup\entity\UserDetailsEntity.class" with enhanced definition
+16:54:19,293 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 1 classes. Timings : input=209 ms, enhance=38 ms, total=247 ms. Consult the log for full details
+16:54:23,031 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer for API "JDO"
+16:54:23,134 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 3.1.1) : Enhancement of classes
+16:54:23,441 (main) INFO  [DataNucleus.Enhancer] - Class "com.avihs.csignup.entity.UserDetailsEntity" is already enhanced.
+16:54:23,442 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 1 classes. Timings : input=288 ms, enhance=18 ms, total=306 ms. Consult the log for full details
+17:35:52,361 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer for API "JDO"
+17:35:52,475 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 3.1.1) : Enhancement of classes
+17:35:52,668 (main) INFO  [DataNucleus.Enhancer] - Writing class file "C:\work\csignup\mvn_csignup\csignup\target\classes\com\avihs\csignup\entity\UserDetailsEntity.class" with enhanced definition
+17:35:52,669 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 1 classes. Timings : input=157 ms, enhance=36 ms, total=193 ms. Consult the log for full details
+17:35:56,682 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer for API "JDO"
+17:35:56,780 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 3.1.1) : Enhancement of classes
+17:35:57,034 (main) INFO  [DataNucleus.Enhancer] - Class "com.avihs.csignup.entity.UserDetailsEntity" is already enhanced.
+17:35:57,035 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 1 classes. Timings : input=234 ms, enhance=19 ms, total=253 ms. Consult the log for full details
+17:38:00,724 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer for API "JDO"
+17:38:00,828 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 3.1.1) : Enhancement of classes
+17:38:01,058 (main) INFO  [DataNucleus.Enhancer] - Writing class file "C:\work\csignup\mvn_csignup\csignup\target\classes\com\avihs\csignup\entity\UserDetailsEntity.class" with enhanced definition
+17:38:01,059 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 1 classes. Timings : input=193 ms, enhance=37 ms, total=230 ms. Consult the log for full details
+17:39:08,877 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer for API "JDO"
+17:39:08,976 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 3.1.1) : Enhancement of classes
+17:39:09,227 (main) INFO  [DataNucleus.Enhancer] - Writing class file "C:\work\csignup\mvn_csignup\csignup\target\classes\com\avihs\csignup\entity\UserDetailsEntity.class" with enhanced definition
+17:39:09,228 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 1 classes. Timings : input=214 ms, enhance=36 ms, total=250 ms. Consult the log for full details
+17:39:30,732 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer for API "JDO"
+17:39:30,834 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 3.1.1) : Enhancement of classes
+17:39:31,149 (main) INFO  [DataNucleus.Enhancer] - Class "com.avihs.csignup.entity.UserDetailsEntity" is already enhanced.
+17:39:31,149 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 1 classes. Timings : input=294 ms, enhance=20 ms, total=314 ms. Consult the log for full details
+17:43:50,067 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer for API "JDO"
+17:43:50,171 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 3.1.1) : Enhancement of classes
+17:43:50,424 (main) INFO  [DataNucleus.Enhancer] - Writing class file "C:\work\csignup\mvn_csignup\csignup\target\classes\com\avihs\csignup\entity\UserDetailsEntity.class" with enhanced definition
+17:43:50,425 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 1 classes. Timings : input=216 ms, enhance=37 ms, total=253 ms. Consult the log for full details
+17:44:00,686 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer for API "JDO"
+17:44:00,783 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 3.1.1) : Enhancement of classes
+17:44:01,048 (main) INFO  [DataNucleus.Enhancer] - Class "com.avihs.csignup.entity.UserDetailsEntity" is already enhanced.
+17:44:01,048 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 1 classes. Timings : input=244 ms, enhance=20 ms, total=264 ms. Consult the log for full details
+17:45:02,685 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer for API "JDO"
+17:45:02,783 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 3.1.1) : Enhancement of classes
+17:45:03,024 (main) INFO  [DataNucleus.Enhancer] - Writing class file "C:\work\csignup\mvn_csignup\csignup\target\classes\com\avihs\csignup\entity\UserDetailsEntity.class" with enhanced definition
+17:45:03,025 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 1 classes. Timings : input=204 ms, enhance=37 ms, total=241 ms. Consult the log for full details
+17:45:36,871 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer for API "JDO"
+17:45:36,970 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 3.1.1) : Enhancement of classes
+17:45:37,285 (main) INFO  [DataNucleus.Enhancer] - Class "com.avihs.csignup.entity.UserDetailsEntity" is already enhanced.
+17:45:37,285 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 1 classes. Timings : input=294 ms, enhance=20 ms, total=314 ms. Consult the log for full details
+17:47:46,437 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer for API "JDO"
+17:47:46,539 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 3.1.1) : Enhancement of classes
+17:47:46,719 (main) INFO  [DataNucleus.Enhancer] - Class "com.avihs.csignup.entity.UserDetailsEntity" is already enhanced.
+17:47:46,719 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 1 classes. Timings : input=160 ms, enhance=20 ms, total=180 ms. Consult the log for full details
+17:50:48,485 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer for API "JDO"
+17:50:48,589 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 3.1.1) : Enhancement of classes
+17:50:48,830 (main) INFO  [DataNucleus.Enhancer] - Writing class file "C:\work\csignup\mvn_csignup\csignup\target\classes\com\avihs\csignup\entity\UserDetailsEntity.class" with enhanced definition
+17:50:48,831 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 1 classes. Timings : input=204 ms, enhance=36 ms, total=240 ms. Consult the log for full details
+17:52:01,781 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer for API "JDO"
+17:52:01,879 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 3.1.1) : Enhancement of classes
+17:52:02,184 (main) INFO  [DataNucleus.Enhancer] - Class "com.avihs.csignup.entity.UserDetailsEntity" is already enhanced.
+17:52:02,184 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 1 classes. Timings : input=284 ms, enhance=20 ms, total=304 ms. Consult the log for full details
+17:52:39,409 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer for API "JDO"
+17:52:39,507 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 3.1.1) : Enhancement of classes
+17:52:39,682 (main) INFO  [DataNucleus.Enhancer] - Class "com.avihs.csignup.entity.UserDetailsEntity" is already enhanced.
+17:52:39,683 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 1 classes. Timings : input=156 ms, enhance=18 ms, total=174 ms. Consult the log for full details
+17:54:12,229 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer for API "JDO"
+17:54:12,328 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 3.1.1) : Enhancement of classes
+17:54:12,505 (main) INFO  [DataNucleus.Enhancer] - Class "com.avihs.csignup.entity.UserDetailsEntity" is already enhanced.
+17:54:12,505 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 1 classes. Timings : input=157 ms, enhance=19 ms, total=176 ms. Consult the log for full details
+17:56:43,026 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer for API "JDO"
+17:56:43,132 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 3.1.1) : Enhancement of classes
+17:56:43,309 (main) INFO  [DataNucleus.Enhancer] - Class "com.avihs.csignup.entity.UserDetailsEntity" is already enhanced.
+17:56:43,310 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 1 classes. Timings : input=158 ms, enhance=19 ms, total=177 ms. Consult the log for full details
+17:58:32,073 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer for API "JDO"
+17:58:32,172 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 3.1.1) : Enhancement of classes
+17:58:32,350 (main) INFO  [DataNucleus.Enhancer] - Class "com.avihs.csignup.entity.UserDetailsEntity" is already enhanced.
+17:58:32,350 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 1 classes. Timings : input=158 ms, enhance=19 ms, total=177 ms. Consult the log for full details
+18:01:17,327 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer for API "JDO"
+18:01:17,425 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 3.1.1) : Enhancement of classes
+18:01:17,605 (main) INFO  [DataNucleus.Enhancer] - Class "com.avihs.csignup.entity.UserDetailsEntity" is already enhanced.
+18:01:17,605 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 1 classes. Timings : input=159 ms, enhance=20 ms, total=179 ms. Consult the log for full details
+18:04:34,725 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer for API "JDO"
+18:04:34,831 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 3.1.1) : Enhancement of classes
+18:04:35,014 (main) INFO  [DataNucleus.Enhancer] - Class "com.avihs.csignup.entity.UserDetailsEntity" is already enhanced.
+18:04:35,014 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 1 classes. Timings : input=161 ms, enhance=21 ms, total=182 ms. Consult the log for full details
+18:10:53,277 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer for API "JDO"
+18:10:53,374 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 3.1.1) : Enhancement of classes
+18:10:53,550 (main) INFO  [DataNucleus.Enhancer] - Class "com.avihs.csignup.entity.UserDetailsEntity" is already enhanced.
+18:10:53,550 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 1 classes. Timings : input=157 ms, enhance=19 ms, total=176 ms. Consult the log for full details

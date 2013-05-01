@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<!DOCTYPE beans PUBLIC "-//SPRING//DTD BEAN//EN"
+		"http://www.springframework.org/dtd/spring-beans.dtd">
+
+<beans>
+
+	<bean id="persistenceManagerFactory"
+		class="org.springframework.orm.jdo.LocalPersistenceManagerFactoryBean">
+		<property name="persistenceManagerFactoryName" value="transactions" />
+	</bean>
+
+	<bean id="transactionManager" class="org.springframework.orm.jdo.JdoTransactionManager">
+		<property name="persistenceManagerFactory">
+			<ref bean="persistenceManagerFactory" />
+		</property>
+	</bean>
+
+	<bean id="transactionProxyTemplate" abstract="true"
+		class="org.springframework.transaction.interceptor.TransactionProxyFactoryBean">
+		<property name="transactionManager">
+			<ref local="transactionManager" />
+		</property>
+		<property name="transactionAttributes">
+
+			<props>
+
+				<prop key="update*">PROPAGATION_REQUIRED,-RegPortalException</prop>
+				<prop key="remove*">PROPAGATION_REQUIRED,-RegPortalException</prop>
+				<prop key="delete*">PROPAGATION_REQUIRED,-RegPortalException</prop>
+				<prop key="save*">PROPAGATION_REQUIRED,-RegPortalException</prop>
+				<prop key="add*">PROPAGATION_REQUIRED,-RegPortalException</prop>
+				<prop key="setCsignupFields">PROPAGATION_REQUIRED,-RegPortalException</prop>
+				<prop key="getAllCountriesKeys">PROPAGATION_REQUIRED,-RegPortalException</prop>
+				<!--commented to update web page fields properly -->
+				<prop key="getWebPageFieldsEntities">PROPAGATION_NOT_SUPPORTED</prop>
+				<!-- <prop key="getWebPageDetails">PROPAGATION_NOT_SUPPORTED</prop> -->
+
+				<!-- <prop key="*">PROPAGATION_NOT_SUPPORTED</prop> -->
+				<prop key="*">PROPAGATION_REQUIRED</prop>
+
+				<!-- <prop key="*">PROPAGATION_REQUIRED</prop> -->
+
+				<prop key="save*">PROPAGATION_REQUIRED,-RegPortalException</prop>
+				<!-- other methods use the default transaction settings (see below) -->
+
+			</props>
+		</property>
+	</bean>
+
+	<bean id="userMgmtDAO" class="com.avihs.csignup.daoimpl.UserMgmtDAOImpl">
+		<property name="persistenceManagerFactory" ref="persistenceManagerFactory" />
+	</bean>
+
+</beans>
